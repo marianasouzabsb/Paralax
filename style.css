@@ -6,6 +6,10 @@ body,html{
     height: 100%;
     
 }
+@font-face{
+    font-family: fhotoshot;
+    src: url(./font/Photoshoot-Regular.woff);
+}
 
 .conteudo{
     color: #777;
@@ -18,6 +22,7 @@ h3{
     text-transform: uppercase;
     color: #111;
     text-align: center;
+    font-family: fhotoshot;
 }
 P{
     margin-bottom: 20px;
